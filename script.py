@@ -1,5 +1,8 @@
 def saludo():
     print("Hola, GitHub")
 
+def suma(a, b):
+    return a + b
+
 saludo()
-    print (1+1)
+print(suma(1, 1))
